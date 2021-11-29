@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:width="46dp"
+        android:height="14dp"
+        android:gravity="center"
+        android:top="20dp"
+        android:left="30dp"
+        android:drawable="@drawable/centa_home_item_selected" />
+</layer-list>
